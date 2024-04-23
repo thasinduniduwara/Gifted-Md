@@ -116,10 +116,10 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "V.2.5.0",
-  caption : process.env.CAPTION || "*©²⁰²⁴ ɢɪғᴛᴇᴅ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛs*" , // ```『 ©²⁰²⁴ ɢɪғᴛᴇᴅ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛs 』```", //*『ᴠᴇɴᴏᴄʏʙᴇʀ ᴍᴅ』*\n youtube.com/@giftedtechnexus"),
+  caption : process.env.CAPTION || "*©²⁰²⁴ aisa ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛs*" , // ```『 ©²⁰²⁴ aisa ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛs 』```", //*『mr.thasindu- ᴍᴅ』*\n youtube.com/@giftedtechnexus"),
  
-  author : process.env.PACK_AUTHER|| "GiftedTech",
-  packname: process.env.PACK_NAME || "WhatsappBots♥️",
+  author : process.env.PACK_AUTHER|| "MR.THASINDU",
+  packname: process.env.PACK_NAME || "MR.THASINDU♥️",
   botname : process.env.BOT_NAME  || "ɢɪғᴛᴇᴅ-ᴍᴅ",
   ownername:process.env.OWNER_NAME|| "Gifted Tech",
 
